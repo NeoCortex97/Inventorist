@@ -1,0 +1,55 @@
+body {
+    background-color: #222;
+    color: lightgray;
+}
+
+th, td {
+    border-style: solid;
+    border-width: 1pt;
+}
+
+.assortmentContent {
+    width: 98%;
+    margin: 1%;
+    border-collapse: collapse;
+}
+
+.tag {
+    display: inline-block;
+    background-color: #446;
+    border-radius: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 3px;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    background-color: rgb(75, 75, 75);
+}
+
+.empty {
+    visibility: hidden;
+    border-style: none;
+}
+
+.assortment {
+    background-color: #333;
+    border-radius: 10px;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.info {
+    margin-left: 10px;
+}
+
+.info td{
+    border-style: none;
+}

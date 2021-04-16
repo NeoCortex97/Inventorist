@@ -22,7 +22,7 @@ const data = {
             name: "MAX232",
             description: "Classic RS232 driver",
             amount: 88,
-            tags: ["analog", "timer", "oscillator"],
+            tags: ["digital", "driver", "rs232"],
             datasheet: "NONE",
             sources: ["None"]
         },
@@ -30,7 +30,7 @@ const data = {
             name: "MAX485",
             description: "Classic RS485 driver",
             amount: 88,
-            tags: ["analog", "timer", "oscillator"],
+            tags: ["digital", "driver", "rs485"],
             datasheet: "NONE",
             sources: ["None"]
         },
@@ -38,7 +38,7 @@ const data = {
             name: "L286",
             description: "Classic DC-Motor driver",
             amount: 88,
-            tags: ["analog", "timer", "oscillator"],
+            tags: ["analog", "dirver", "motor"],
             datasheet: "NONE",
             sources: ["None"]
         }
